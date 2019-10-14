@@ -1,129 +1,56 @@
-<!DOCTYPE html>
+---
+---
+<!DOCTYPE HTML>
 <html>
-<head>
-	<title>About Me</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
-
-	<link rel="stylesheet" type="text/css" href="css/softdev.css">
-	<link rel="stylesheet" type="text/css" href="css/main.css">
-
-	<link rel="shortcut icon" href="images/favicon.ico" type="image/icon">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	
-
-</head>
-<body style="display: block;">
-
-	
-
-			<div class="imagebox">
-				<div class="daiki"><h1><span>I am</span> Daiki Shinomiya</h1><br
-					><h3>Web Designer/Photographer</h3></div>
-				<img src="images/Daiki.JPG">
-				
-			</div>
-			<div class="body1 backbox">
-				<div class="heading middle">
-					<h1>Welcome.</h1>
-					<h3>Scroll Down To Find Out About Me</h3>
-				</div>
-			
-			</div>
-			<div class="body2 backbox">
-				<div class="heading">
-					<h1>Portfolio</h1>
-					<h3>My Works, Past and Present</h3>
-				</div>
-				<div id="container">
-
-			
-
-					<div class="item">
-						<img src="images/hstechsite.png" class="image">
-						<a class="overlay" href="https://isbhstech.com">
-							<h3 class="title">ISB HS Tech Website</h3>
-							<div class="description">
-								<p>
-									Working in close collaboration with the Software Development Club, this website was made for the International School of Bangkok's very first Hs Tech Club, aimed towards helping kids and teachers alike in the technology world. 
-								</p>
-							</div>
-						</a>
-					</div>
-					<div class="item">
-							<img src="images/softdevsite.png" class="image">
-						<a class="overlay" href="https://studentdevelopers.isb.ac.th">
-							<h3 class="title">Software Development Website</h3>
-							<div class="description">
-								<p>
-									Being part of ISB's Software Development Club, this website was made by Kat, Nico, Software Development's Club President and Founder, and I
-								</p>
-							</div>
-						</a>
-					</div>
-					<div class="item">
-						<img src="images/servicesite.png" class="image">
-						<a class="overlay" href="https://sites.google.com/a/students.isb.ac.th/service-conference-2015/">
-							<h3 class="title">2015 Bangkok ServICE Website</h3>
-							<div class="description">
-								<p>
-									The 2015 Bangkok ServICE conference is a community service conference hosted annually in different schools around Bangkok, Thailand. I was hired as part of the Software Development Club to design the ServICE website for ISB, with some help from Judge. 
-								</p>
-							</div>
-						</a>
-					</div>
-					<div class="item">
-							<img src="images/more.jpg" class="image">
-						<a class="overlay" href="#">
-							<h3 class="title">More Coming Soon</h3>
-							<div class="description">
-								<p>
-								Contact me if you wish to have something designed, or if you need a photographer
-								</p>
-							</div>
-						</a>
-					</div>
-				
-
-				</div>
-				
-			</div>
-			
-			
-				
-
-				
-	</body>
-	<footer>
-			<div class="backbox body3">
-				<div class="text">
-						<div class="contactbox">
-
-							<div class="contacttext">
-								<div>
-									<h2>Contact Me</h2>
-									<h3>If you wish to have something designed, or if you need a photographer</h3>
-									
-									
-								<p>	Email Me: <a href= "mailto:defaultcode1@gmail.com"> defaultcode1@gmail.com</a>
-								</div></p>
-								<h3>Social:</h3>
-								<div class="contactsocial">
-
-
-
-											<a href="https://www.facebook.com/profile.php?id=100007671826332" target="_blank"><img src= "images/facebook.png" width= "10%" height="10%" hspace="5%" vspace="2%"></a>
-											<a href="http://instagram.com/daikitree" target="_blank"><img src= "images/instagram.png" width= "10%" height="10%" hspace="5%" vspace="2%"></a>
-											<a href="https://www.flickr.com/photos/mumungasta" target="_blank"><img src= "images/flickr.png" width= "10%" height="10%" hspace="5%" vspace="2%"></a>
-
-
-								</div>
-								<div>
-
-
-
-								</div>
-							</div>
-				</div>
-			</div>
-	</footer>
-	</html>
+  <head>
+    <title>{{ site.title }}</title>
+    {% include favicon.html %}
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/zoom.css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,900" rel="stylesheet">
+    <script src="https://use.fontawesome.com/4c9066f1a6.js"></script>
+  </head>
+  <body>
+    <div id="container">
+      <!--------------- YOUR NAME OVER HERE -------------->
+      <h2 class="header">{{ site.full_name }}</h2>
+      <div id="gallery">
+      </div>
+    </div>
+    <a href="https://github.com/andyzg/gallery"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+    <div class="footer">
+      <div class="links">
+        <a id="instagram" class="links__icon" href="https://www.instagram.com/{{ site.instagram }}">
+          <span class="view-ig"> View {{ site.full_name }}'s Instagram </span>
+          <i class="fa fa-instagram fa-lg"></i>
+        </a>
+      </div>
+    </div>
+  </body>
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.js"
+    integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-beta.2/lazyload.js"></script>
+  <script src="js/transition.js"></script>
+  <script src="js/zoom.min.js"></script>
+  <script src="js/gallery.js"></script>
+  <script>
+    var COLUMNS = 'columns';
+    var ROWS = 'rows';
+    var SQUARES = 'squares';
+    var columns = COLUMNS;
+    var rows = ROWS;
+    var squares = SQUARES;
+    var layoutStyle = {{ site.layout_style }};
+    var configuration = {
+      spacing: {{ site.spacing }},
+      shuffle: {{ site.shuffle }},
+      columns: {{ site.columns }},
+      maxHeight: {{ site.max_height }}
+    };
+  </script>
+  <script src="js/script.js"></script>
+  {% include ga.html %}
+</html>
