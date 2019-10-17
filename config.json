@@ -1,17 +1,17 @@
 {
   "Sports": [
     {
-      "height": 4024,
+      "height": 1277,
       "compressed_path": "./photos/Sports/DSC_7182.min.jpg",
-      "width": 6048,
+      "width": 1920,
       "compressed": false,
       "placeholder_path": "./photos/Sports/DSC_7182.placeholder.jpg",
       "path": "./photos/Sports/DSC_7182.jpg"
     },
     {
-      "height": 3264,
+      "height": 1508,
       "compressed_path": "./photos/Sports/uclvsexeter-122 copy.min.jpg",
-      "width": 4156,
+      "width": 1920,
       "compressed": false,
       "placeholder_path": "./photos/Sports/uclvsexeter-122 copy.placeholder.jpg",
       "path": "./photos/Sports/uclvsexeter-122 copy.jpg"
