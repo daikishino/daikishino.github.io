@@ -1,20 +1,328 @@
 {
-  "Sports": [
+  "Music": [
     {
       "height": 1277,
-      "compressed_path": "./photos/Sports/DSC_7182.min.jpg",
+      "compressed_path": "./photos/Music/Amber Run 1.min.jpg",
       "width": 1920,
       "compressed": false,
-      "placeholder_path": "./photos/Sports/DSC_7182.placeholder.jpg",
-      "path": "./photos/Sports/DSC_7182.jpg"
+      "placeholder_path": "./photos/Music/Amber Run 1.placeholder.jpg",
+      "path": "./photos/Music/Amber Run 1.jpg"
+    },
+    {
+      "height": 2886,
+      "compressed_path": "./photos/Music/Amber Run 2.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Music/Amber Run 2.placeholder.jpg",
+      "path": "./photos/Music/Amber Run 2.jpg"
+    },
+    {
+      "height": 1277,
+      "compressed_path": "./photos/Music/Amber Run 3.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Music/Amber Run 3.placeholder.jpg",
+      "path": "./photos/Music/Amber Run 3.jpg"
+    },
+    {
+      "height": 1277,
+      "compressed_path": "./photos/Music/Hijacked 1.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Music/Hijacked 1.placeholder.jpg",
+      "path": "./photos/Music/Hijacked 1.jpg"
+    },
+    {
+      "height": 2886,
+      "compressed_path": "./photos/Music/Hijacked 2.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Music/Hijacked 2.placeholder.jpg",
+      "path": "./photos/Music/Hijacked 2.jpg"
+    },
+    {
+      "height": 1277,
+      "compressed_path": "./photos/Music/Hijacked 3.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Music/Hijacked 3.placeholder.jpg",
+      "path": "./photos/Music/Hijacked 3.jpg"
+    },
+    {
+      "height": 2886,
+      "compressed_path": "./photos/Music/Hijacked 4.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Music/Hijacked 4.placeholder.jpg",
+      "path": "./photos/Music/Hijacked 4.jpg"
+    },
+    {
+      "height": 3011,
+      "compressed_path": "./photos/Music/Hijacked 5.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Music/Hijacked 5.placeholder.jpg",
+      "path": "./photos/Music/Hijacked 5.jpg"
+    },
+    {
+      "height": 2886,
+      "compressed_path": "./photos/Music/Hijacked 6.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Music/Hijacked 6.placeholder.jpg",
+      "path": "./photos/Music/Hijacked 6.jpg"
+    },
+    {
+      "height": 1277,
+      "compressed_path": "./photos/Music/Hijacked 7.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Music/Hijacked 7.placeholder.jpg",
+      "path": "./photos/Music/Hijacked 7.jpg"
+    },
+    {
+      "height": 2886,
+      "compressed_path": "./photos/Music/Hijacked 8.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Music/Hijacked 8.placeholder.jpg",
+      "path": "./photos/Music/Hijacked 8.jpg"
+    },
+    {
+      "height": 2886,
+      "compressed_path": "./photos/Music/Stereo Honey 1.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Music/Stereo Honey 1.placeholder.jpg",
+      "path": "./photos/Music/Stereo Honey 1.jpg"
+    },
+    {
+      "height": 1277,
+      "compressed_path": "./photos/Music/Stereo Honey 2.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Music/Stereo Honey 2.placeholder.jpg",
+      "path": "./photos/Music/Stereo Honey 2.jpg"
+    }
+  ],
+  "Events": [
+    {
+      "height": 2600,
+      "compressed_path": "./photos/Events/AU Color Awards 1.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/AU Color Awards 1.placeholder.jpg",
+      "path": "./photos/Events/AU Color Awards 1.jpg"
+    },
+    {
+      "height": 1322,
+      "compressed_path": "./photos/Events/AU Dinner .min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/AU Dinner .placeholder.jpg",
+      "path": "./photos/Events/AU Dinner .jpg"
+    },
+    {
+      "height": 1238,
+      "compressed_path": "./photos/Events/AU Dinner 1.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/AU Dinner 1.placeholder.jpg",
+      "path": "./photos/Events/AU Dinner 1.jpg"
+    },
+    {
+      "height": 2899,
+      "compressed_path": "./photos/Events/AU Dinner 3.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/AU Dinner 3.placeholder.jpg",
+      "path": "./photos/Events/AU Dinner 3.jpg"
+    },
+    {
+      "height": 1272,
+      "compressed_path": "./photos/Events/Big Society Blowout 1.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/Big Society Blowout 1.placeholder.jpg",
+      "path": "./photos/Events/Big Society Blowout 1.jpg"
+    },
+    {
+      "height": 3039,
+      "compressed_path": "./photos/Events/Big Society Blowout 2.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/Big Society Blowout 2.placeholder.jpg",
+      "path": "./photos/Events/Big Society Blowout 2.jpg"
+    },
+    {
+      "height": 2898,
+      "compressed_path": "./photos/Events/Big Society Blowout 3.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/Big Society Blowout 3.placeholder.jpg",
+      "path": "./photos/Events/Big Society Blowout 3.jpg"
+    },
+    {
+      "height": 1272,
+      "compressed_path": "./photos/Events/James0167.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/James0167.placeholder.jpg",
+      "path": "./photos/Events/James0167.jpg"
+    },
+    {
+      "height": 1277,
+      "compressed_path": "./photos/Events/Kingfisher.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/Kingfisher.placeholder.jpg",
+      "path": "./photos/Events/Kingfisher.jpg"
+    },
+    {
+      "height": 1251,
+      "compressed_path": "./photos/Events/Miles 1.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/Miles 1.placeholder.jpg",
+      "path": "./photos/Events/Miles 1.jpg"
+    },
+    {
+      "height": 1349,
+      "compressed_path": "./photos/Events/Miles 2.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/Miles 2.placeholder.jpg",
+      "path": "./photos/Events/Miles 2.jpg"
+    },
+    {
+      "height": 2756,
+      "compressed_path": "./photos/Events/Miles 3.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/Miles 3.placeholder.jpg",
+      "path": "./photos/Events/Miles 3.jpg"
+    },
+    {
+      "height": 3343,
+      "compressed_path": "./photos/Events/Miles 4.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/Miles 4.placeholder.jpg",
+      "path": "./photos/Events/Miles 4.jpg"
+    },
+    {
+      "height": 2995,
+      "compressed_path": "./photos/Events/Thai Society 1.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/Thai Society 1.placeholder.jpg",
+      "path": "./photos/Events/Thai Society 1.jpg"
+    },
+    {
+      "height": 2456,
+      "compressed_path": "./photos/Events/Thai Society 2.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/Thai Society 2.placeholder.jpg",
+      "path": "./photos/Events/Thai Society 2.jpg"
+    },
+    {
+      "height": 2746,
+      "compressed_path": "./photos/Events/Thai Society 3.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/Thai Society 3.placeholder.jpg",
+      "path": "./photos/Events/Thai Society 3.jpg"
+    },
+    {
+      "height": 1920,
+      "compressed_path": "./photos/Events/Windriders 1.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/Windriders 1.placeholder.jpg",
+      "path": "./photos/Events/Windriders 1.jpg"
+    },
+    {
+      "height": 2723,
+      "compressed_path": "./photos/Events/Windriders 2.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Events/Windriders 2.placeholder.jpg",
+      "path": "./photos/Events/Windriders 2.jpg"
+    }
+  ],
+  "Sports": [
+    {
+      "height": 3371,
+      "compressed_path": "./photos/Sports/Emeralds 1.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Sports/Emeralds 1.placeholder.jpg",
+      "path": "./photos/Sports/Emeralds 1.jpg"
+    },
+    {
+      "height": 2886,
+      "compressed_path": "./photos/Sports/EUBC 1.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Sports/EUBC 1.placeholder.jpg",
+      "path": "./photos/Sports/EUBC 1.jpg"
+    },
+    {
+      "height": 1277,
+      "compressed_path": "./photos/Sports/EUCC 1.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Sports/EUCC 1.placeholder.jpg",
+      "path": "./photos/Sports/EUCC 1.jpg"
+    },
+    {
+      "height": 2648,
+      "compressed_path": "./photos/Sports/EUHC 1.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Sports/EUHC 1.placeholder.jpg",
+      "path": "./photos/Sports/EUHC 1.jpg"
+    },
+    {
+      "height": 1277,
+      "compressed_path": "./photos/Sports/EUNC 1.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Sports/EUNC 1.placeholder.jpg",
+      "path": "./photos/Sports/EUNC 1.jpg"
+    },
+    {
+      "height": 1533,
+      "compressed_path": "./photos/Sports/EURC 1.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Sports/EURC 1.placeholder.jpg",
+      "path": "./photos/Sports/EURC 1.jpg"
+    },
+    {
+      "height": 3012,
+      "compressed_path": "./photos/Sports/EUTC 1.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Sports/EUTC 1.placeholder.jpg",
+      "path": "./photos/Sports/EUTC 1.jpg"
     },
     {
       "height": 1508,
-      "compressed_path": "./photos/Sports/uclvsexeter-122 copy.min.jpg",
+      "compressed_path": "./photos/Sports/EUWPC 1.min.jpg",
       "width": 1920,
       "compressed": false,
-      "placeholder_path": "./photos/Sports/uclvsexeter-122 copy.placeholder.jpg",
-      "path": "./photos/Sports/uclvsexeter-122 copy.jpg"
+      "placeholder_path": "./photos/Sports/EUWPC 1.placeholder.jpg",
+      "path": "./photos/Sports/EUWPC 1.jpg"
+    },
+    {
+      "height": 2805,
+      "compressed_path": "./photos/Sports/Extra.min.jpg",
+      "width": 1920,
+      "compressed": false,
+      "placeholder_path": "./photos/Sports/Extra.placeholder.jpg",
+      "path": "./photos/Sports/Extra.jpg"
     }
   ]
 }
