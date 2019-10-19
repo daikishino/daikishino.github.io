@@ -4,7 +4,7 @@
       "height": 665,
       "compressed_path": "./photos/Music/Amber Run 1.min.jpg",
       "width": 1000,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Music/Amber Run 1.placeholder.jpg",
       "path": "./photos/Music/Amber Run 1.jpg"
     },
@@ -12,7 +12,7 @@
       "height": 1503,
       "compressed_path": "./photos/Music/Amber Run 2.min.jpg",
       "width": 1000,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Music/Amber Run 2.placeholder.jpg",
       "path": "./photos/Music/Amber Run 2.jpg"
     },
@@ -20,7 +20,7 @@
       "height": 665,
       "compressed_path": "./photos/Music/Amber Run 3.min.jpg",
       "width": 1000,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Music/Amber Run 3.placeholder.jpg",
       "path": "./photos/Music/Amber Run 3.jpg"
     },
@@ -28,7 +28,7 @@
       "height": 665,
       "compressed_path": "./photos/Music/Hijacked 1.min.jpg",
       "width": 1000,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Music/Hijacked 1.placeholder.jpg",
       "path": "./photos/Music/Hijacked 1.jpg"
     },
@@ -36,7 +36,7 @@
       "height": 1503,
       "compressed_path": "./photos/Music/Hijacked 2.min.jpg",
       "width": 1000,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Music/Hijacked 2.placeholder.jpg",
       "path": "./photos/Music/Hijacked 2.jpg"
     },
@@ -253,73 +253,73 @@
   ],
   "Sports": [
     {
-      "height": 3371,
+      "height": 1756,
       "compressed_path": "./photos/Sports/Emeralds 1.min.jpg",
-      "width": 1920,
+      "width": 1000,
       "compressed": false,
       "placeholder_path": "./photos/Sports/Emeralds 1.placeholder.jpg",
       "path": "./photos/Sports/Emeralds 1.jpg"
     },
     {
-      "height": 2886,
+      "height": 1503,
       "compressed_path": "./photos/Sports/EUBC 1.min.jpg",
-      "width": 1920,
+      "width": 1000,
       "compressed": false,
       "placeholder_path": "./photos/Sports/EUBC 1.placeholder.jpg",
       "path": "./photos/Sports/EUBC 1.jpg"
     },
     {
-      "height": 1277,
+      "height": 665,
       "compressed_path": "./photos/Sports/EUCC 1.min.jpg",
-      "width": 1920,
+      "width": 1000,
       "compressed": false,
       "placeholder_path": "./photos/Sports/EUCC 1.placeholder.jpg",
       "path": "./photos/Sports/EUCC 1.jpg"
     },
     {
-      "height": 2648,
+      "height": 1379,
       "compressed_path": "./photos/Sports/EUHC 1.min.jpg",
-      "width": 1920,
+      "width": 1000,
       "compressed": false,
       "placeholder_path": "./photos/Sports/EUHC 1.placeholder.jpg",
       "path": "./photos/Sports/EUHC 1.jpg"
     },
     {
-      "height": 1277,
+      "height": 665,
       "compressed_path": "./photos/Sports/EUNC 1.min.jpg",
-      "width": 1920,
+      "width": 1000,
       "compressed": false,
       "placeholder_path": "./photos/Sports/EUNC 1.placeholder.jpg",
       "path": "./photos/Sports/EUNC 1.jpg"
     },
     {
-      "height": 1533,
+      "height": 798,
       "compressed_path": "./photos/Sports/EURC 1.min.jpg",
-      "width": 1920,
+      "width": 1000,
       "compressed": false,
       "placeholder_path": "./photos/Sports/EURC 1.placeholder.jpg",
       "path": "./photos/Sports/EURC 1.jpg"
     },
     {
-      "height": 3012,
+      "height": 1569,
       "compressed_path": "./photos/Sports/EUTC 1.min.jpg",
-      "width": 1920,
+      "width": 1000,
       "compressed": false,
       "placeholder_path": "./photos/Sports/EUTC 1.placeholder.jpg",
       "path": "./photos/Sports/EUTC 1.jpg"
     },
     {
-      "height": 1508,
+      "height": 785,
       "compressed_path": "./photos/Sports/EUWPC 1.min.jpg",
-      "width": 1920,
+      "width": 1000,
       "compressed": false,
       "placeholder_path": "./photos/Sports/EUWPC 1.placeholder.jpg",
       "path": "./photos/Sports/EUWPC 1.jpg"
     },
     {
-      "height": 2805,
+      "height": 1461,
       "compressed_path": "./photos/Sports/Extra.min.jpg",
-      "width": 1920,
+      "width": 1000,
       "compressed": false,
       "placeholder_path": "./photos/Sports/Extra.placeholder.jpg",
       "path": "./photos/Sports/Extra.jpg"
